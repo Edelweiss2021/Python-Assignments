@@ -1,2 +1,1 @@
-# Python-Assignments
-Python assignments
+## Python lecture assignments from IT Fundamentals training
